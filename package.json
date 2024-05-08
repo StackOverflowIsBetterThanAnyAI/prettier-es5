@@ -2,26 +2,11 @@
   "name": "prettier-es5",
   "version": "0.0.1",
   "description": "Prettier settings for trailing comma, tab width, semi colons and single quotes.",
+  "main": "index.json",
   "license": "MIT",
-  "keywords": "prettier, es5, eslint, trailingcomma, tabwidth, semicolons, singlequotes",
-  "peerDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^8.57.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-jsx-a11y": "^6.8.0",
-    "eslint-plugin-prettier": "^5.1.3",
-    "eslint-plugin-react": "^7.34.1",
-    "eslint-plugin-react-hooks": "^4.6.2",
-    "prettier": "^3.2.5"
-  },
-  "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^8.57.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-jsx-a11y": "^6.8.0",
-    "eslint-plugin-prettier": "^5.1.3",
-    "eslint-plugin-react": "^7.34.1",
-    "eslint-plugin-react-hooks": "^4.6.2",
-    "prettier": "^3.2.5"
+  "keywords": "prettier, es5, eslint, prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StackOverflowIsBetterThanAnyAI/prettier-es5"
   }
 }
