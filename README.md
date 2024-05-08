@@ -8,3 +8,15 @@ Prettier settings:
     "singleQuote": true
 }
 ```
+
+In order to use this config, you need to add the following to your `package.json` file:
+
+```
+{
+    ...
+
+    "prettier": "prettier-es5",
+    
+    ...
+}
+```
