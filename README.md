@@ -1,4 +1,4 @@
-Prettier settings:
+# Prettier settings:
 
 ```
 {
@@ -16,7 +16,7 @@ In order to use this config, you need to add the following to your `package.json
     ...
 
     "prettier": "prettier-es5",
-    
+
     ...
 }
 ```
