@@ -1,10 +1,15 @@
 {
   "name": "prettier-es5",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Prettier settings for trailing comma, tab width, semi colons and single quotes.",
   "main": "index.json",
   "license": "MIT",
-  "keywords": "prettier, es5, eslint, prettier-config",
+  "keywords": [
+    "prettier",
+    "es5",
+    "eslint",
+    "prettier-config"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/StackOverflowIsBetterThanAnyAI/prettier-es5"
