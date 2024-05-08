@@ -1,5 +1,7 @@
 # Prettier settings:
 
+This package adds these prettier settings:
+
 ```
 {
     "trailingComma": "es5",
